@@ -2,7 +2,7 @@
 
 Você foi contratado para desenvolver um sistema bancário orientado a objeto em Python. Neste sistema, você deve criar uma classe chamada "Banco" com os seguintes cinco métodos:
 
-1. `criar_conta(nome, saldo_inicial)`: Este método deve criar uma conta bancária com o nome do titular e o saldo inicial especificado.".
+1. `criar_conta(nome, saldo_inicial)`: Este método deve criar uma conta bancária com o nome do titular e o saldo inicial especificado.
 
 2. `sacar(conta, valor)`: Este método deve permitir que o titular da conta especificada retire uma quantia de dinheiro igual ao valor fornecido. Certifique-se de que haja saldo suficiente na conta para efetuar o saque.
 
