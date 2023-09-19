@@ -6,7 +6,7 @@ Você foi contratado para desenvolver um sistema bancário orientado a objeto em
 
 2. `sacar(conta, valor)`: Este método deve permitir que o titular da conta especificada retire uma quantia de dinheiro igual ao valor fornecido. Certifique-se de que haja saldo suficiente na conta para efetuar o saque.
 
-3. `depositar(conta, valor)`: Este método deve permitir que o titular da conta especificada deposite uma quantia de dinheiro igual ao valor fornecido.
+3. `depositar(conta, valor)`: Este método deve permitir que o titular da conta especificada deposite uma quantia de dinheiro igual ao valor fornecido. Certifique-se de que o valor informado, seja um valor positivo.
 
 4. `transferir(origem, destino, valor)`: Este método deve permitir a transferência de dinheiro da conta de origem para a conta de destino, com o valor especificado. Certifique-se de que haja saldo suficiente na conta de origem para efetuar a transferência.
 
